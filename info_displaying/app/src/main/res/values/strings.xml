@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TOAST / SNACKBAR / ALERTDIALOG</string>
+    <string name="toast_msg">Android is Low!</string>
+</resources>
