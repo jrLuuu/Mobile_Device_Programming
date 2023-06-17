@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ListView / GridView / Spinner</string>
+
+    <integer-array name="image_list">
+        <item>@drawable/apple</item>
+        <item>@drawable/avocado</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/cherries</item>
+        <item>@drawable/coconut</item>
+        <item>@drawable/grapes</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/peach</item>
+        <item>@drawable/pineapple</item>
+        <item>@drawable/strawberry</item>
+        <item>@drawable/tomato</item>
+    </integer-array>
+
+    <string-array name="name_list">
+        <item>"蘋果"</item>
+        <item>"酪梨"</item>
+        <item>"香蕉"</item>
+        <item>"櫻桃"</item>
+        <item>"椰子"</item>
+        <item>"葡萄"</item>
+        <item>"檸檬"</item>
+        <item>"柳橙"</item>
+        <item>"水蜜桃"</item>
+        <item>"鳳梨"</item>
+        <item>"草莓"</item>
+        <item>"番茄"</item>
+    </string-array>
+</resources>
+
+
